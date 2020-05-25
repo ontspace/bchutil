@@ -1,4 +1,4 @@
-module github.com/gcash/bchutil
+module github.com/ontspace/bchutil
 
 go 1.12
 
